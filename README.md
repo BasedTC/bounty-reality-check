@@ -16,7 +16,7 @@ The result is a fast public-evidence screen, not a payment guarantee. Always con
 
 ## Community supported
 
-Bounty Reality Check is free to use. It is part of **The First Dollar Project**: start at $0, create useful public tools, count only genuine settled income, and document what it takes to scale. One dollar is the first proof point; the audacious long-term north star is **$1,000,000,000**, pursued by creating real value at every stage.
+Bounty Reality Check is free to use. It is part of **The First Dollar Project**: start at $0, create something useful for the community, count only genuine settled income, and document the work honestly. If the project proves useful, we will keep improving it and build more free public tools around problems people actually have.
 
 If the checker saves you time—or you want to support better public evidence in the bounty ecosystem—you can contribute any amount at https://strike.me/wdownman. Contributions support continued research, maintenance, public field reports, and future free tools. No donation is required.
 
@@ -30,4 +30,4 @@ No login is required. The checker reads public GitHub data only and does not con
 
 The hosted public beta is live. The core implementation is not published in this repository yet. This repository currently provides project documentation and an issue tracker for reproducible false positives, false negatives, and stale-bounty examples.
 
-Built as part of a transparent experiment to earn a first dollar by saving developers from wasting theirs—and then keep building.
+Built as part of a transparent experiment to earn a first dollar by saving developers from wasting theirs—and then keep helping.
