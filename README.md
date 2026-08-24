@@ -16,7 +16,7 @@ The result is a fast public-evidence screen, not a payment guarantee. Always con
 
 ## Community supported
 
-Bounty Reality Check is free to use. It is part of **The First Dollar Project**: start at $0, create useful public tools, count only genuine settled income, and document what it takes to scale beyond the first dollar.
+Bounty Reality Check is free to use. It is part of **The First Dollar Project**: start at $0, create useful public tools, count only genuine settled income, and document what it takes to scale. One dollar is the first proof point; the audacious long-term north star is **$1,000,000,000**, pursued by creating real value at every stage.
 
 If the checker saves you time—or you want to support better public evidence in the bounty ecosystem—you can contribute any amount at https://strike.me/wdownman. Contributions support continued research, maintenance, public field reports, and future free tools. No donation is required.
 
