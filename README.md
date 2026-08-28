@@ -18,7 +18,7 @@ The result is a fast public-evidence screen, not a payment guarantee. Always con
 
 Bounty Reality Check is free to use. It is part of **The First Dollar Project**: start at $0, create something useful for the community, count only genuine settled income, and document the work honestly. If the project proves useful, we will keep improving it and build more free public tools around problems people actually have.
 
-If the checker saves you time—or you want to support better public evidence in the bounty ecosystem—you can contribute any amount at https://strike.me/wdownman. Contributions support continued research, maintenance, public field reports, and future free tools. No donation is required.
+If the checker saves you time—or you want to support better public evidence in the bounty ecosystem—you can contribute any amount at https://strike.me/basedtc. Contributions support continued research, maintenance, public field reports, and future free tools. No donation is required.
 
 A public second-pass request can be opened at https://github.com/BasedTC/bounty-reality-check/issues/1.
 
